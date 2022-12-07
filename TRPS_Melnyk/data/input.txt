@@ -9,7 +9,7 @@ Netherlands 1 3 2 4
 Belgium 1 1 2 2
 2
 Netherlands 1 1 2 2
-Belgium 2 2 4 4
+Belgium 2 2 3 4
 2
 Netherlands 1 1 2 2
 Belgium 1 3 2 5
